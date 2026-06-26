@@ -145,9 +145,9 @@ flowchart TB
 
 <br><br>
 
-### Data, Backend & Systems
+### Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -187,7 +187,6 @@ flowchart TB
 
 <br>
 
-<img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=22C55E" />
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" />
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
@@ -251,11 +250,21 @@ flowchart TB
 
 ## 🏆 Achievement Terminal
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abbas-Elahi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
-
-</div>
+```txt
+╔══════════════════════════════════════════════════════════════╗
+║                    ACHIEVEMENT TERMINAL                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   [✓] Engineering Background        : Mechanical / Aero       ║
+║   [✓] Mathematics Teaching          : Active                  ║
+║   [✓] Computer Vision Path          : In Progress             ║
+║   [✓] Deep Learning Foundation      : Building                ║
+║   [✓] Scientific AI Vision          : Online                  ║
+║                                                              ║
+║   CURRENT MODE: LEARNING × RESEARCH × BUILDING               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
